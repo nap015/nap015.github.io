@@ -1,12 +1,38 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/nap015/nap015.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Data Science major (graduating March 2021) at University of California, San Diego
+
+
+## Experience
+
+### Computational Biology Assistant at Gleeson Laboratory of Pediatric Brain Disease
+
+Currently doing research at [Gleeson Lab](https://www.gleesonlab.org/index.html). Devised pipelines and submitted job arrays to the lab’s HPC cluster, TSCC. 
+Worked on projects such as:
+- database of genes eligible for antisense oligonucleotide(ASO) treatment, focusing on genes with NATs(natural antisense transcript)
+- single cell ML classifier using transcription factors
+
+### Linguistic Annotator at Lausanne Business Solutions
+
+Currently working as a contractor for [LBS](https://www.lausannesolutions.com/index). 
+
+
+## Projects
+
+
+### Music Recommender - Capstone Project (DSC 180B)
+
+Currently working on a Spotify music recommender that will connect you and your parents through music.
+
+### Capstone Project (DSC 180A)
+
+Course focused on evaluating recent recommender system practices in academia, as shown in paper ["Are we really making much progress? A worrying analysis of recent neural recommendation approaches" (Dacrema et al.)](https://dl.acm.org/doi/abs/10.1145/3298689.3347058). Replicated and evaluated the [MoHR recommender system developed by Kang et al.](https://dl.acm.org/doi/10.1145/3269206.3271792), to basic yet effective baseline methods like PopRec, ItemCF and UserCF. Concluded that MoHR's results shown in the published paper are accurate but that the recommender may not always be efficient when balancing the improvement in accuracy with increased calculation time.
+
+### 
+
+
 
 ```markdown
 Syntax highlighted code block
